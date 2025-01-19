@@ -1,0 +1,5 @@
+Normalization help us to convert our feature between 0 to 1.
+
+Standarization help us to convert our feature based in stanard normak distribution.
+Standard Normal distribution (mean=0, StandardDeviation=1)
+
